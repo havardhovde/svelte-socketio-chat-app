@@ -18,3 +18,5 @@ export default config
 ```bash
 npm run dev
 ```
+
+Once running type !name 'your name' to set your name, and !weather 'location' to get the weather.
